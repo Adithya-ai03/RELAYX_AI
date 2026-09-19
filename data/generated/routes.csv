@@ -1,0 +1,11 @@
+route_id,origin,destination,distance_km,estimated_hours,base_cost,delay_risk,route_status
+R001,Bengaluru,Chennai,350,7.3,1570,0.08,Active
+R002,Bengaluru,Hyderabad,570,11.9,2054,0.14,Active
+R003,Hyderabad,Delhi,1570,32.7,4254,0.2,Active
+R004,Chennai,Vijayawada,430,9.0,1746,0.26,Active
+R005,Mumbai,Pune,150,3.1,1130,0.08,Active
+R006,Delhi,Jaipur,280,5.8,1416,0.14,Active
+R007,Mumbai,Ahmedabad,530,11.0,1966,0.2,Active
+R008,Hyderabad,Visakhapatnam,620,12.9,2164,0.26,Active
+R009,Chennai,Kochi,690,14.4,2318,0.08,Active
+R010,Delhi,Kolkata,1500,31.2,4100,0.14,Active

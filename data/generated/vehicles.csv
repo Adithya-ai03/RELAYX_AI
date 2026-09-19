@@ -1,0 +1,73 @@
+vehicle_id,current_location,route_origin,route_destination,capacity_kg,current_load_kg,departure_time,eta,vehicle_status,transport_cost,vehicle_type,average_speed_kmph
+V001,Mumbai,Mumbai,Pune,250,58,2026-09-18 19:00:00,2026-09-18 19:06:00,Available,1267.0,Large Truck,47
+V002,Bengaluru,Bengaluru,Chennai,400,202,2026-09-18 15:00:00,2026-09-19 02:18:00,Available,1817.0,Large Truck,47
+V003,Bengaluru,Bengaluru,Hyderabad,700,331,2026-09-18 20:00:00,2026-09-19 04:54:00,Unavailable,1652.0,Truck,50
+V004,Delhi,Delhi,Jaipur,250,96,2026-09-18 18:00:00,2026-09-19 00:48:00,Available,1234.0,Truck,42
+V005,Bengaluru,Bengaluru,Chennai,400,81,2026-09-18 17:00:00,2026-09-19 02:18:00,Available,1824.0,Van,55
+V006,Chennai,Chennai,Vijayawada,700,376,2026-09-18 21:00:00,2026-09-19 04:00:00,Delayed,1781.0,Large Truck,54
+V007,Bengaluru,Bengaluru,Hyderabad,400,251,2026-09-18 19:00:00,2026-09-19 04:54:00,In Transit,1766.0,Large Truck,48
+V008,Hyderabad,Hyderabad,Delhi,250,124,2026-09-18 20:00:00,2026-09-20 02:42:00,In Transit,3748.0,Van,49
+V009,Hyderabad,Hyderabad,Visakhapatnam,250,151,2026-09-18 20:00:00,2026-09-19 07:54:00,In Transit,2302.0,Truck,48
+V010,Bengaluru,Bengaluru,Chennai,400,256,2026-09-18 15:00:00,2026-09-18 23:18:00,Delayed,1711.0,Truck,55
+V011,Chennai,Chennai,Vijayawada,400,117,2026-09-18 16:00:00,2026-09-19 00:00:00,In Transit,1815.0,Truck,57
+V012,Hyderabad,Hyderabad,Delhi,700,315,2026-09-18 19:00:00,2026-09-20 00:42:00,Available,5025.0,Large Truck,44
+V013,Delhi,Delhi,Kolkata,400,144,2026-09-18 22:00:00,2026-09-20 01:12:00,In Transit,4090.0,Van,50
+V014,Bengaluru,Bengaluru,Hyderabad,700,449,2026-09-18 16:00:00,2026-09-19 04:54:00,Available,1890.0,Van,42
+V015,Hyderabad,Hyderabad,Delhi,1200,181,2026-09-18 15:00:00,2026-09-19 23:42:00,Available,4215.0,Van,51
+V016,Hyderabad,Hyderabad,Delhi,400,130,2026-09-18 22:00:00,2026-09-20 01:42:00,Available,4015.0,Large Truck,46
+V017,Chennai,Chennai,Vijayawada,400,232,2026-09-18 22:00:00,2026-09-19 00:00:00,Available,1554.0,Truck,48
+V018,Delhi,Delhi,Jaipur,1200,307,2026-09-18 16:00:00,2026-09-18 22:48:00,In Transit,1159.0,Large Truck,51
+V019,Mumbai,Mumbai,Pune,250,133,2026-09-18 18:00:00,2026-09-18 20:06:00,Available,1063.0,Truck,48
+V020,Mumbai,Mumbai,Pune,700,217,2026-09-18 20:00:00,2026-09-18 21:06:00,Available,1226.0,Van,49
+V021,Bengaluru,Bengaluru,Chennai,700,447,2026-09-18 16:00:00,2026-09-19 00:18:00,Available,1268.0,Truck,57
+V022,Delhi,Delhi,Jaipur,250,146,2026-09-18 17:00:00,2026-09-18 22:48:00,Delayed,1382.0,Van,58
+V023,Chennai,Chennai,Kochi,400,106,2026-09-18 18:00:00,2026-09-19 08:24:00,Available,2452.0,Large Truck,42
+V024,Bengaluru,Bengaluru,Chennai,250,130,2026-09-18 20:00:00,2026-09-19 01:18:00,In Transit,1639.0,Large Truck,49
+V025,Bengaluru,Bengaluru,Chennai,250,71,2026-09-18 17:00:00,2026-09-19 02:18:00,Delayed,1744.0,Large Truck,58
+V026,Delhi,Delhi,Kolkata,400,173,2026-09-18 18:00:00,2026-09-19 23:12:00,Available,4609.0,Truck,52
+V027,Hyderabad,Hyderabad,Delhi,250,115,2026-09-18 17:00:00,2026-09-20 01:42:00,In Transit,4614.0,Van,46
+V028,Bengaluru,Bengaluru,Chennai,700,389,2026-09-18 21:00:00,2026-09-18 23:18:00,Available,1321.0,Van,53
+V029,Mumbai,Mumbai,Pune,1200,136,2026-09-18 16:00:00,2026-09-18 20:06:00,Available,1119.0,Truck,44
+V030,Mumbai,Mumbai,Pune,700,154,2026-09-18 16:00:00,2026-09-18 18:06:00,In Transit,1177.0,Truck,42
+V031,Chennai,Chennai,Kochi,250,122,2026-09-18 16:00:00,2026-09-19 07:24:00,Delayed,2082.0,Large Truck,54
+V032,Delhi,Delhi,Kolkata,250,102,2026-09-18 22:00:00,2026-09-19 22:12:00,Available,3350.0,Large Truck,52
+V033,Hyderabad,Hyderabad,Visakhapatnam,250,93,2026-09-18 22:00:00,2026-09-19 05:54:00,In Transit,1925.0,Van,57
+V034,Mumbai,Mumbai,Pune,250,32,2026-09-18 19:00:00,2026-09-18 22:06:00,Available,1110.0,Van,48
+V035,Chennai,Chennai,Kochi,1200,349,2026-09-18 16:00:00,2026-09-19 09:24:00,In Transit,2238.0,Truck,59
+V036,Delhi,Delhi,Jaipur,400,230,2026-09-18 21:00:00,2026-09-18 22:48:00,In Transit,1233.0,Truck,50
+V037,Bengaluru,Bengaluru,Chennai,250,29,2026-09-18 18:00:00,2026-09-18 22:18:00,In Transit,1774.0,Van,56
+V038,Chennai,Chennai,Vijayawada,700,222,2026-09-18 21:00:00,2026-09-19 01:00:00,In Transit,2043.0,Large Truck,44
+V039,Hyderabad,Hyderabad,Delhi,400,247,2026-09-18 17:00:00,2026-09-19 23:42:00,Available,3746.0,Large Truck,43
+V040,Delhi,Delhi,Kolkata,250,31,2026-09-18 22:00:00,2026-09-20 01:12:00,In Transit,4804.0,Truck,57
+V041,Delhi,Delhi,Kolkata,250,128,2026-09-18 21:00:00,2026-09-20 02:12:00,In Transit,3309.0,Van,58
+V042,Bengaluru,Bengaluru,Chennai,400,96,2026-09-18 16:00:00,2026-09-19 00:18:00,In Transit,1837.0,Large Truck,60
+V043,Mumbai,Mumbai,Ahmedabad,700,403,2026-09-18 20:00:00,2026-09-19 02:00:00,Available,2321.0,Van,48
+V044,Delhi,Delhi,Jaipur,250,127,2026-09-18 17:00:00,2026-09-18 20:48:00,Available,1140.0,Truck,42
+V045,Delhi,Delhi,Jaipur,1200,704,2026-09-18 17:00:00,2026-09-19 00:48:00,Available,1565.0,Large Truck,61
+V046,Delhi,Delhi,Jaipur,700,153,2026-09-18 17:00:00,2026-09-18 21:48:00,Available,1682.0,Large Truck,54
+V047,Chennai,Chennai,Kochi,700,274,2026-09-18 20:00:00,2026-09-19 05:24:00,Available,2694.0,Van,46
+V048,Hyderabad,Hyderabad,Visakhapatnam,250,132,2026-09-18 17:00:00,2026-09-19 03:54:00,Available,2571.0,Truck,57
+V049,Chennai,Chennai,Vijayawada,250,58,2026-09-18 20:00:00,2026-09-19 01:00:00,In Transit,1781.0,Van,60
+V050,Mumbai,Mumbai,Ahmedabad,700,158,2026-09-18 19:00:00,2026-09-19 05:00:00,Available,1634.0,Van,47
+V051,Chennai,Chennai,Vijayawada,400,45,2026-09-18 21:00:00,2026-09-19 04:00:00,Delayed,1990.0,Truck,57
+V052,Hyderabad,Hyderabad,Delhi,400,250,2026-09-18 22:00:00,2026-09-20 00:42:00,Available,4448.0,Large Truck,57
+V053,Mumbai,Mumbai,Pune,700,343,2026-09-18 15:00:00,2026-09-18 21:06:00,In Transit,1182.0,Large Truck,52
+V054,Hyderabad,Hyderabad,Delhi,250,112,2026-09-18 22:00:00,2026-09-19 23:42:00,Available,4113.0,Truck,54
+V055,Hyderabad,Hyderabad,Visakhapatnam,700,356,2026-09-18 15:00:00,2026-09-19 03:54:00,Available,2226.0,Van,47
+V056,Chennai,Chennai,Vijayawada,1200,470,2026-09-18 19:00:00,2026-09-19 00:00:00,In Transit,1504.0,Van,60
+V057,Mumbai,Mumbai,Ahmedabad,700,253,2026-09-18 17:00:00,2026-09-19 06:00:00,Unavailable,2155.0,Van,61
+V058,Chennai,Chennai,Kochi,400,138,2026-09-18 20:00:00,2026-09-19 07:24:00,Available,1924.0,Van,61
+V059,Chennai,Chennai,Vijayawada,700,316,2026-09-18 20:00:00,2026-09-19 04:00:00,Available,1906.0,Van,56
+V060,Mumbai,Mumbai,Ahmedabad,400,84,2026-09-18 21:00:00,2026-09-19 02:00:00,In Transit,2240.0,Large Truck,42
+V061,Hyderabad,Hyderabad,Visakhapatnam,700,411,2026-09-18 18:00:00,2026-09-19 03:54:00,In Transit,2140.0,Van,49
+V062,Mumbai,Mumbai,Pune,700,382,2026-09-18 22:00:00,2026-09-18 22:06:00,Available,1134.0,Van,50
+V063,Delhi,Delhi,Jaipur,700,204,2026-09-18 17:00:00,2026-09-18 20:48:00,Available,1310.0,Truck,61
+V064,Chennai,Chennai,Vijayawada,250,104,2026-09-18 16:00:00,2026-09-19 00:00:00,Available,2074.0,Van,52
+V065,Delhi,Delhi,Jaipur,250,44,2026-09-18 18:00:00,2026-09-18 22:48:00,Unavailable,1548.0,Truck,52
+V066,Chennai,Chennai,Vijayawada,250,158,2026-09-18 19:00:00,2026-09-19 03:00:00,Available,1655.0,Van,44
+V067,Chennai,Chennai,Kochi,400,238,2026-09-18 20:00:00,2026-09-19 06:24:00,Available,2016.0,Van,57
+V068,Chennai,Chennai,Vijayawada,400,242,2026-09-18 21:00:00,2026-09-19 02:00:00,Unavailable,1550.0,Truck,48
+V069,Delhi,Delhi,Jaipur,400,113,2026-09-18 16:00:00,2026-09-18 23:48:00,Available,1396.0,Large Truck,43
+V070,Bengaluru,Bengaluru,Hyderabad,400,77,2026-09-18 17:00:00,2026-09-19 04:54:00,Available,2418.0,Truck,61
+V071,Mumbai,Mumbai,Ahmedabad,700,151,2026-09-18 22:00:00,2026-09-19 03:00:00,Available,2150.0,Truck,45
+V072,Bengaluru,Bengaluru,Chennai,1200,179,2026-09-18 18:00:00,2026-09-18 22:18:00,Available,1391.0,Truck,42

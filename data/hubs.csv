@@ -1,0 +1,6 @@
+hub_id,city,handling_capacity,handling_cost,operational_status
+H01,Hyderabad,5000,180,Operational
+H02,Chennai,5000,200,Operational
+H03,Mumbai,5000,220,Operational
+H04,Pune,5000,240,Operational
+H05,Delhi,5000,260,Operational

@@ -1,0 +1,11 @@
+hub_id,city,handling_capacity,handling_cost,operational_status
+H01,Bengaluru,2928,285,Operational
+H02,Chennai,3065,402,Operational
+H03,Hyderabad,5318,247,Operational
+H04,Mumbai,2517,293,Maintenance
+H05,Delhi,3332,443,Operational
+H06,Pune,4100,292,Operational
+H07,Kolkata,2602,189,Operational
+H08,Ahmedabad,3641,165,Operational
+H09,Vijayawada,6492,433,Operational
+H10,Visakhapatnam,7919,229,Operational

@@ -1,0 +1,7 @@
+shipment_id,origin,current_location,destination,weight_kg,volume_m3,priority,deadline_offset_hours,status,shipment_value,created_offset_hours,expected_transport_hours,delay_probability,route_risk,business_category
+S101,Bengaluru,Bengaluru,Chennai,100,1.1,Critical,4,Misplaced,120000,20,7,0.95,0.30,Medicine
+S102,Bengaluru,Bengaluru,Chennai,150,1.6,High,12,Misplaced,70000,12,8,0.75,0.20,Electronics
+S103,Bengaluru,Bengaluru,Hyderabad,200,2.2,Normal,28,Misplaced,30000,7,12,0.20,0.12,Consumer Goods
+S104,Bengaluru,Bengaluru,Chennai,100,1.0,Critical,9,Misplaced,90000,10,8,0.90,0.20,Medicine
+S105,Bengaluru,Bengaluru,Delhi,150,1.8,High,48,Misplaced,85000,9,30,0.35,0.18,Automotive
+S106,Bengaluru,Bengaluru,Chennai,500,5.0,Medium,10,Misplaced,50000,5,8,0.40,0.20,Automotive

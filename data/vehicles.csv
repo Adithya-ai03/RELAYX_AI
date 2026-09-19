@@ -1,0 +1,7 @@
+vehicle_id,current_location,route_origin,route_destination,capacity_kg,current_load_kg,departure_offset_hours,eta_offset_hours,vehicle_status,transport_cost,vehicle_type,average_speed_kmph
+V101,Bengaluru,Bengaluru,Chennai,400,0,0,7,Available,2400,Truck,50
+V102,Bengaluru,Bengaluru,Chennai,250,50,1,8,In Transit,1800,Van,50
+V103,Bengaluru,Bengaluru,Hyderabad,350,50,2,14,Available,2600,Truck,48
+V104,Hyderabad,Hyderabad,Delhi,500,100,3,34,Available,5200,Large Truck,50
+V105,Bengaluru,Bengaluru,Mumbai,800,0,0,20,Available,4000,Large Truck,45
+V106,Bengaluru,Bengaluru,Chennai,200,0,0,6,Unavailable,1200,Van,55
